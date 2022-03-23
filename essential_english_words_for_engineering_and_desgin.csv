@@ -24,3 +24,5 @@ suspend,サスペンド,処理を中断すること,,resume
 table,テーブル,,,
 width,ウィズ,幅,,height
 throw,スロー,,,catch
+latitude,ラチチュード,緯度,,longitude
+longitude,ロンジテュード,経度,,latitude
