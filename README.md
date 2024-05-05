@@ -7,6 +7,9 @@
 ## 辞書の追加について
 まだまだ足りないので、協力してくださる方を募集しています。追加については、随時Pull Requestで受け付けています。
 
+- 現在は初学者向けに比較的基本的な頻出用語を中心に追加しています。
+- 用語の採否については、[本リポジトリのオーナー](https://github.com/kwaka1208)が判断しますのでこの点ご了承ください。
+
 ## 追加リクエストについて
 自分では辞書の追加に参加できないけど、こんな言葉につまづいた（つまづいているので）追加してほしいというリクエストがあれば、Issueで受け付けています。[こちら](https://github.com/kwaka1208/essential_words_for_engineers_and_designers/issues/new?assignees=&labels=&projects=&template=%E7%94%A8%E8%AA%9E%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88.md&title=%E7%94%A8%E8%AA%9E%E8%BF%BD%E5%8A%A0%EF%BC%9A)からお願いします。
 
