@@ -2,148 +2,175 @@
 -
   word: "button"
   pronunciation: "ボタン"
-  note: "画面上をクリックやタップで操作するもの。ローマ字表記とごっちゃになってスペルミスしていることが多い（例：botan）。"
+  note:
+    - "画面上をクリックやタップで操作するもの。ローマ字表記とごっちゃになってスペルミスしていることが多い（例：botan）。"
 -
   word: "catch"
   pronunciation: "キャッチ"
-  note: "プログラムの中で本来起こるべきでないエラー（例外）を処理するための構文。try-catchの組み合わせで使われる。"
+  meanings:
+		- "プログラムの中で本来起こるべきでないエラー（例外）を処理するための構文。try-catchの組み合わせで使われる。"
   related_words:
     - "try"
     - "throw"
 -
   word: "close"
   pronunciation: "クローズ"
-  note: "閉じる。ファイルアクセスや通信の処理で出てくることがある。開いたファイルや通信などのリソースを閉じないとメモリリークやセキュリティ上の問題を発生する可能性がある。"
+  meanings:
+		- "閉じる。ファイルアクセスや通信の処理で出てくることがある。開いたファイルや通信などのリソースを閉じないとメモリリークやセキュリティ上の問題を発生する可能性がある。"
   related_words:
     - "open"
 -
   word: "column"
   pronunciation: "カラム"
-  note: "列、表の左右方向の並び"
+  meanings:
+		- "列、表の左右方向の並び"
   related_words: 
     - "row"
 -
   word: "continue"
   pronunciation: "コンティニュー"
-  note: "継続、続行。ループ処理の中で後続の処理を実行しないでループの次のステップに入る時などの用いられる構文。"
+  meanings:
+		- "継続、続行。ループ処理の中で後続の処理を実行しないでループの次のステップに入る時などの用いられる構文。"
 -
   word: "deserialize"
   pronunciation: "デシリアライズ"
-  note: "シリアライズ処理で変換され外部に保存された情報をメモリ上に展開する処理。"
+  meanings:
+		- "シリアライズ処理で変換され外部に保存された情報をメモリ上に展開する処理。"
   related_words:
     - "serialize"
 -
   word: "enter"
   pronunciation: "エンター"
-  note: "入るという意味。入力すること、キーボードのENTERキーの意味の場合や、ある処理のプロセスにはいる時などに使う場合もある。"
+  meanings:
+		- "入るという意味。入力すること、キーボードのENTERキーの意味の場合や、ある処理のプロセスにはいる時などに使う場合もある。"
 -
   word: "event"
   pronunciation: "イベント"
-  note: "キーが押された、マウスがクリックされたなど、処理のきっかけになるもの。外部ではなくソフトウェア的に内部で発生させることもある。"
+  meanings:
+		- "キーが押された、マウスがクリックされたなど、処理のきっかけになるもの。外部ではなくソフトウェア的に内部で発生させることもある。"
 -
   word: "exception"
   pronunciation: "エクセプション"
-  note: "例外。プログラムの中で本来起こるべきでない状態のことで、例外に対してはcatchで処理を行わないと処理の続行ができない。"
+  meanings:
+		- "例外。プログラムの中で本来起こるべきでない状態のことで、例外に対してはcatchで処理を行わないと処理の続行ができない。"
   related_words:
     - "throw"
     - "catch"
 -
   word: "exit"
   pronunciation: "イグジット"
-  note: "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。"
+  meanings:
+		- "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。"
   related_words:
     - "quit"
 -
   word: "fetch"
   pronunciation: "フェッチ"
-  note: "読み出しといった意味で使われる。通信などを介してデータを読みとるような場合に使われる。"
+  meanings:
+		- "読み出しといった意味で使われる。通信などを介してデータを読みとるような場合に使われる。"
 -
   word: "find"
   pronunciation: "ファインド"
-  note: "見つける。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。Searchとも近いけれど、findは文章内やあるデータの塊の中のような閉じた情報から探すことを意味することが多い。"
+  meanings:
+		- "見つける。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。Searchとも近いけれど、findは文章内やあるデータの塊の中のような閉じた情報から探すことを意味することが多い。"
   related_words:
     - "search"
 -
   word: "function"
   pronunciation: "ファンクション"
-  note: "機能、関数。多くの場合、プログラムの処理の塊を表す関数の意味。"
+  meanings:
+		- "機能、関数。多くの場合、プログラムの処理の塊を表す関数の意味。"
 -
   word: "height"
   pronunciation: "ハイト"
-  note: "高さ"
+  meanings:
+		- "高さ"
   related_words:
     - "width"
 -
   word: "loop"
   pronunciation: "ループ"
-  note: "輪、繰り返し"
+  meanings:
+		- "輪、繰り返し"
 -
   word: "open"
   pronunciation: "オープン"
-  note: "開く。ファイルアクセスや通信の処理を行う際に対象のファイルや通信経路にアクセスできる状態にする処理を意味する。"
+  meanings:
+		- "開く。ファイルアクセスや通信の処理を行う際に対象のファイルや通信経路にアクセスできる状態にする処理を意味する。"
   related_words:
     - "close"
 -
   word: "quit"
   pronunciation: "クイット"
-  note: "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。一部のエディタでは編集内容を保存せずに終了することを指す場合もある。"
+  meanings:
+		- "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。一部のエディタでは編集内容を保存せずに終了することを指す場合もある。"
   related_words:
     - "exit"
 -
   word: "resume"
   pronunciation: "レジューム"
-  note: "中断した処理を再開すること。ノートPCの電源を入れたまま画面を閉じ、復帰する動作にも使われる。"
+  meanings:
+		- "中断した処理を再開すること。ノートPCの電源を入れたまま画面を閉じ、復帰する動作にも使われる。"
   related_words:
     - "suspend"
 -
   word: "row"
   pronunciation: "ロウ"
-  note: "行、表の上下方向の並び"
+  meanings:
+		- "行、表の上下方向の並び"
   related_words:
     - "column"
 -
   word: "search"
   pronunciation: "サーチ"
-  note: "検索。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。"
+  meanings:
+		- "検索。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。"
   related_words:
     - "find"
 -
   word: "serialize"
   pronunciation: "シリアライズ"
-  note: "直訳としては「直列化」。メモリ内の情報を外部に保存もしくは取り出し可能な状態にするため、ひとつの塊にすること。"
+  meanings:
+		- "直訳としては「直列化」。メモリ内の情報を外部に保存もしくは取り出し可能な状態にするため、ひとつの塊にすること。"
   related_words:
     - "deserialize"
 -
   word: "suspend"
   pronunciation: "サスペンド"
-  note: "処理を中断すること。ノートPCの電源を入れたまま画面を閉じる動作にも使われる。"
+  meanings:
+		- "処理を中断すること。ノートPCの電源を入れたまま画面を閉じる動作にも使われる。"
   related_words:
     - "resume"
 -
   word: "table"
   pronunciation: "テーブル"
-  note: "データベースにおいては、行と列でできた表形式のデータの塊を指し、webにおいては表示上の表組みのことを指す。"
+  meanings:
+		- "データベースにおいては、行と列でできた表形式のデータの塊を指し、webにおいては表示上の表組みのことを指す。"
 -
   word: "width"
   pronunciation: "ウィズ"
-  note: "幅"
+  meanings:
+		- "幅"
   related_words:
     - "height"
 -
   word: "throw"
   pronunciation: "スロー"
-  note: "意図的に例外処理を発生させること。プログラム内で発生した予期しない状態を呼び出し元からさらにその上の処理に伝える時に用いられる。"
+  meanings:
+		- "意図的に例外処理を発生させること。プログラム内で発生した予期しない状態を呼び出し元からさらにその上の処理に伝える時に用いられる。"
   related_words:
     - "catch"
 -
   word: "latitude"
   pronunciation: "ラチチュード"
-  note: "緯度。地球上の位置を表す値で赤道に対して平行に定義されたもの。"
+  meanings:
+		- "緯度。地球上の位置を表す値で赤道に対して平行に定義されたもの。"
   related_words:
     - "longitude"
 -
   word: "longitude"
   pronunciation: "ロンジテュード"
-  note: "経度。地球上の位置を表す値で赤道に対して垂直に定義されたもの。"
+  meanings:
+		- "経度。地球上の位置を表す値で赤道に対して垂直に定義されたもの。"
   related_words:
     - "latitude"
