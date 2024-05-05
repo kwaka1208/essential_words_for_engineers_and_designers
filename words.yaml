@@ -138,7 +138,7 @@
 -
   word: "latitude"
   pronunciation: "ラチチュード"
-  note: "緯度。地球上の位置を表す値で赤道に対して並行に定義されたもの。"
+  note: "緯度。地球上の位置を表す値で赤道に対して平行に定義されたもの。"
   related_words:
     - "longitude"
 -
