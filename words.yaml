@@ -1,4 +1,5 @@
 ---
+essential_words:
 -
   word: "button"
   pronunciation: "ボタン"
@@ -8,7 +9,7 @@
   word: "catch"
   pronunciation: "キャッチ"
   meanings:
-		- "プログラムの中で本来起こるべきでないエラー（例外）を処理するための構文。try-catchの組み合わせで使われる。"
+    - "プログラムの中で本来起こるべきでないエラー（例外）を処理するための構文。try-catchの組み合わせで使われる。"
   related_words:
     - "try"
     - "throw"
