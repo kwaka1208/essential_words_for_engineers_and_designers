@@ -7,20 +7,20 @@
   word: "catch"
   pronunciation: "キャッチ"
   note: "プログラムの中で本来起こるべきでないエラー（例外）を処理するための構文。try-catchの組み合わせで使われる。"
-  releasted_word:
+  related_words:
     - "try"
     - "throw"
 -
   word: "close"
   pronunciation: "クローズ"
   note: "閉じる。ファイルアクセスや通信の処理で出てくることがある。開いたファイルや通信などのリソースを閉じないとメモリリークやセキュリティ上の問題を発生する可能性がある。"
-  releasted_word:
+  related_words:
     - "open"
 -
   word: "column"
   pronunciation: "カラム"
   note: "列、表の左右方向の並び"
-  releasted_word: 
+  related_words: 
     - "row"
 -
   word: "continue"
@@ -30,7 +30,7 @@
   word: "deserialize"
   pronunciation: "デシリアライズ"
   note: "シリアライズ処理で変換され外部に保存された情報をメモリ上に展開する処理。"
-  releasted_word:
+  related_words:
     - "serialize"
 -
   word: "enter"
@@ -44,14 +44,14 @@
   word: "exception"
   pronunciation: "エクセプション"
   note: "例外。プログラムの中で本来起こるべきでない状態のことで、例外に対してはcatchで処理を行わないと処理の続行ができない。"
-  releasted_word:
+  related_words:
     - "throw"
     - "catch"
 -
   word: "exit"
   pronunciation: "イグジット"
   note: "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。"
-  releasted_word:
+  related_words:
     - "quit"
 -
   word: "fetch"
@@ -61,7 +61,7 @@
   word: "find"
   pronunciation: "ファインド"
   note: "見つける。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。Searchとも近いけれど、findは文章内やあるデータの塊の中のような閉じた情報から探すことを意味することが多い。"
-  releasted_word:
+  related_words:
     - "search"
 -
   word: "function"
@@ -71,7 +71,7 @@
   word: "height"
   pronunciation: "ハイト"
   note: "高さ"
-  releasted_word:
+  related_words:
     - "width"
 -
   word: "loop"
@@ -81,43 +81,43 @@
   word: "open"
   pronunciation: "オープン"
   note: "開く。ファイルアクセスや通信の処理を行う際に対象のファイルや通信経路にアクセスできる状態にする処理を意味する。"
-  releasted_word:
+  related_words:
     - "close"
 -
   word: "quit"
   pronunciation: "クイット"
   note: "退出、終了。コマンドラインなどで、あるモードから抜けることやエディタを終了する時、プログラム内で処理を中断して元の処理に戻る場合などに使われる。一部のエディタでは編集内容を保存せずに終了することを指す場合もある。"
-  releasted_word:
+  related_words:
     - "exit"
 -
   word: "resume"
   pronunciation: "レジューム"
   note: "中断した処理を再開すること。ノートPCの電源を入れたまま画面を閉じ、復帰する動作にも使われる。"
-  releasted_word:
+  related_words:
     - "suspend"
 -
   word: "row"
   pronunciation: "ロウ"
   note: "行、表の上下方向の並び"
-  releasted_word:
+  related_words:
     - "column"
 -
   word: "search"
   pronunciation: "サーチ"
   note: "検索。エディタの検索機能やプログラム中のデータ探索処理の意味として利用される。"
-  releasted_word:
+  related_words:
     - "find"
 -
   word: "serialize"
   pronunciation: "シリアライズ"
   note: "直訳としては「直列化」。メモリ内の情報を外部に保存もしくは取り出し可能な状態にするため、ひとつの塊にすること。"
-  releasted_word:
+  related_words:
     - "deserialize"
 -
   word: "suspend"
   pronunciation: "サスペンド"
   note: "処理を中断すること。ノートPCの電源を入れたまま画面を閉じる動作にも使われる。"
-  releasted_word:
+  related_words:
     - "resume"
 -
   word: "table"
@@ -127,23 +127,23 @@
   word: "width"
   pronunciation: "ウィズ"
   note: "幅"
-  releasted_word:
+  related_words:
     - "height"
 -
   word: "throw"
   pronunciation: "スロー"
   note: "意図的に例外処理を発生させること。プログラム内で発生した予期しない状態を呼び出し元からさらにその上の処理に伝える時に用いられる。"
-  releasted_word:
+  related_words:
     - "catch"
 -
   word: "latitude"
   pronunciation: "ラチチュード"
   note: "緯度。地球上の位置を表す値で赤道に対して並行に定義されたもの。"
-  releasted_word:
+  related_words:
     - "longitude"
 -
   word: "longitude"
   pronunciation: "ロンジテュード"
   note: "経度。地球上の位置を表す値で赤道に対して垂直に定義されたもの。"
-  releasted_word:
+  related_words:
     - "latitude"
